@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@600&family=Open+Sans&family=Roboto+Slab&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@600&family=Open+Sans&family=Roboto+Slab:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Passion+One&display=swap");
+.additem-body {
+  text-align: center;
+  background-color: rgb(70, 81, 94);
+  height: 450px;
+  width: 610px;
+  margin-top: 50px;
+  margin-left: 400px;
+  color: white;
+  font-family: "Mulish", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto Slab", serif;
+  padding: 30px;
+}
+.add__imagelabel {
+  width: 30%;
+  margin-right: 20px;
+  /* margin-left:-5px ; */
+}
+.add-image {
+  padding: 10px;
+  margin-left: 32px;
+  background-color: rgb(70, 81, 94);
+  color: white;
+  /* border-color: #2c3e50;
+  outline: 0;
+  border-width: 0 0 2px; */
+}
+
+/* rgb(70, 81, 94) */
+.add-button {
+  background-color: rgb(25, 46, 63);
+  border: none;
+  color: white;
+  border-radius: 12px;
+  height: 50px;
+  display: inline-block;
+  font-size: 20px;
+  width: 150px;
+  /* margin: 4px 2px; */
+  align-items: center;
+  margin: 30px;
+}
+.additem-title {
+  text-decoration: underline solid rgb(245, 247, 248) 2px;
+  margin-left: -43%;
+}
+
+.add-input {
+  padding: 10px;
+  background-color: rgb(70, 81, 94);
+  color: white;
+  border-color: #2c3e50;
+  outline: 0;
+  border-width: 0 0 2px;
+
+  /* text-decoration: underline solid rgb(245, 247, 248) 1px; */
+}
+.add__label {
+  width: 30%;
+  text-align: justify;
+}
